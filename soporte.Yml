@@ -1,0 +1,24 @@
+categories:
+- soporte
+conversations:
+--mi internet no reaciona
+ -que luces ve encendidas en su modem?.
+ -no tengo luces encendidas.
+ -puedes verificar conexion a la corriente?.
+ -Estaba desconetado gracias.
+--Mi internet falla
+ - que tipo de fallas presenta?.
+ -se va por momentos
+ -favor de desconectar y conectar el modem.
+ -estoy en eso
+ -funciono?.
+ -si, gracias
+ -de nada
+--mi internet falla
+ -que tipo de fallas presenta?.
+ -no tengo conexion
+ -puedes desconectar y conectar el modem?.
+ -ya lo hice y no funciona
+ -Le estaremos enviando un tecnico para revisar
+ -gracias
+ 
